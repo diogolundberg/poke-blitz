@@ -1,0 +1,13 @@
+{
+  "name": "poke-blitz",
+  "version": "1.0.0",
+  "description": "A simple pokemon database",
+  "homepage": "https://github.com/diogolundberg/poke-blitz#readme",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^7.1.2"
+  }
+}
