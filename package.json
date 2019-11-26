@@ -2,12 +2,20 @@
   "name": "poke-blitz",
   "version": "1.0.0",
   "description": "A simple pokemon database",
-  "homepage": "https://github.com/diogolundberg/poke-blitz#readme",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "devDependencies": {
     "electron": "^7.1.2"
+  },
+  "homepage": "https://github.com/diogolundberg/poke-blitz#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogolundberg/poke-blitz.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogolundberg/poke-blitz/issues"
   }
 }
